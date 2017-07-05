@@ -1,0 +1,30 @@
+.container{
+  margin:auto;
+}
+.jaquette
+{
+  float: left;
+}
+.infoDisque
+{
+  margin-left: 400px;
+  width: 500 px;
+}
+.buy{
+  position: relative;
+  left: 400px;
+}
+.trackList
+{
+  margin-top: 200px;
+}
+.trackList table td
+{
+  height: 50px;
+  width:400px;
+}
+
+img{
+  height: 150px;
+  width: 150px;
+}
